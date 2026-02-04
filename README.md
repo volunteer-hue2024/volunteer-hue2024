@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there I'm Sneh👋
+
+### 👨‍💻 J2EE ,Python Developer | Open Source Enthusiast | Tech Content Writer
+
+Sighted at building things out of the theory floating around ! 🖥️ 
+
+This passionate developer journey is transitioning into the world of AI .. a journey from "building apps" to "building intelligence." 
 
 <!--
 **volunteer-hue2024/volunteer-hue2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
