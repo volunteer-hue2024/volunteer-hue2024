@@ -2,7 +2,7 @@
 
 ### 👨‍💻 J2EE ,Python Developer | Open Source Enthusiast | Tech Content Writer
 
-Sighted at building things out of the theory floating around ! 🖥️ 
+Sighted at building things out of the theory floating around 🖥️ 
 
 This passionate developer journey is transitioning into the world of AI .. a journey from "building apps" to "building intelligence." 
 
