@@ -1,6 +1,6 @@
 ## Hi there I'm Sneh👋
 
-### 👨‍💻 J2EE ,Python Developer | Open Source Enthusiast | Tech Content Writer
+### 👨‍💻 J2EE ,Python Developer | Open Source Enthusiast 
 
 Sighted at building things out of the theory floating around 🖥️ 
 
