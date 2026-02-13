@@ -2,8 +2,7 @@
 
 ### 👨‍💻 J2EE ,Python Developer 
 Open Source Enthusiast | now @ **AI Engineering**
-
-- Sighted at building things out of the theory floating around !
+- Sighted at building things out of all theory floating around
 
 This passionate DEVELOPER journey is transitioning into the world of AI .
 - A journey from "building apps" to "building intelligence!" 
