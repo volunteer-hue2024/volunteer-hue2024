@@ -1,10 +1,15 @@
 ### Hi there I'm Sneh👋
 Sighted at: Grounding high-level theory into tangible builds.
 
-## J2EE ,Python Developer |  now @ **AI Engineering** | Open Source Enthusiast 
+A passionate Developer journey transitioning into the world of AI .
 
-A passionate DEVELOPER journey transitioning into the world of AI .
-#### A journey from "building apps" to "building intelligence!" 
+- From "building apps" to "building intelligence!"
+
+
+
+## J2EE ,Python Developer |  now @ **AI Engineering** | Open Source Enthusiast 
+  
+- 🔭 I’m currently working on ...
 
 
 <!--
@@ -12,7 +17,6 @@ A passionate DEVELOPER journey transitioning into the world of AI .
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -22,8 +26,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-- 🌱 Currently: Conducting hands-on implementation and performance research on
 
 ## Deep Learning Stack :-
 
