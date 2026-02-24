@@ -1,11 +1,11 @@
-## Hi there I'm Sneh👋
+### Hi there I'm Sneh👋
+Sighted at: Grounding high-level theory into tangible builds.
 
-### J2EE ,Python Developer 
-Open Source Enthusiast | now @ **AI Engineering**
-- Sighted at building things out of all theory floating around 👨‍💻 
+## J2EE ,Python Developer |  now @ **AI Engineering** | Open Source Enthusiast 
 
-This passionate DEVELOPER journey is transitioning into the world of AI .
-- A journey from "building apps" to "building intelligence!" 
+A passionate DEVELOPER journey transitioning into the world of AI .
+#### A journey from "building apps" to "building intelligence!" 
+
 
 <!--
 **volunteer-hue2024/volunteer-hue2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,3 +21,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🌱 Currently: Conducting hands-on implementation and performance research on
+
+## Deep Learning Stack :-
+
+
+| Architecture | Best Used For... | Example Task |
+| :--- | :--- | :--- |
+| **ANN** | Tabular/simple Images Flattened data | Credit scoring, basic classification |
+| **CNN (Convolutional)** | Spatial data / Images | Facial recognition, Self-driving cars |
+| **RNN / LSTM** | Sequential data / Time | Stock price prediction, Speech-to-text |
+| **Transformers** | Context / Large sequences | Language translation, Chatbots (GPT) |
+| **GANs (Generative)** | Data creation | AI Art, Synthetic image generation |
