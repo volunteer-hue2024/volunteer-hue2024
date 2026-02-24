@@ -1,5 +1,5 @@
 ### Hi there I'm Sneh👋
-Sighted at: Grounding high-level theory into tangible builds.
+Sighted @ Grounding high-level theory into tangible builds.
 
 A passionate Developer journey transitioning into the world of AI .
 
